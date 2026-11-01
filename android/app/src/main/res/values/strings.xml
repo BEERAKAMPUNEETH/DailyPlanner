@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AuraRoutine</string>
+    <string name="title_activity_main">AuraRoutine</string>
+    <string name="package_name">com.auraroutine.app</string>
+    <string name="custom_url_scheme">com.auraroutine.app</string>
+</resources>
